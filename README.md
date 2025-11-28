@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/L2O_BESS_Scheduling.ipynb](https://colab.research.google.com/drive/1wdD9hdUni19CpRHC5MTEsoZglk6AWMnA#scrollTo=YYvTBPLp-igB))
 
 A **self-supervised Learning-to-Optimize (L2O)** framework for day-ahead scheduling of residential battery energy storage systems (BESS) coupled with solar PV under net metering.
 
