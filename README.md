@@ -2,7 +2,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-orange.svg)](https://pytorch.org/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A **self-supervised Learning-to-Optimize (L2O)** framework for day-ahead scheduling of residential battery energy storage systems (BESS) coupled with solar PV under net metering.
 
@@ -101,8 +100,6 @@ $$\mathcal{L} = \mathcal{L}_{\text{econ}} + \lambda_{\text{soc}} \mathcal{L}_{\t
 | $\mathcal{L}_{\text{soc}}$ | 20.0 | SOC bound violations (ReLU) |
 | $\mathcal{L}_{\text{term}}$ | 10.0 | Terminal SOC mismatch (SmoothL1) |
 
-## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
